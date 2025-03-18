@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-main>
-      <HelloWorld />
+      <h1>テストサイト</h1>
     </v-main>
 
     <AppFooter />
